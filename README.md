@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Developing scalable and user-friendly web applications.<br>I'm looking to collaborate on: Open-source projects that innovate in web development and technology.<br>I'm looking for help with: Optimizing performance and architecture in web applications.<br>I'm currently learning: Advanced techniques in JavaScript frameworks and Solidity for Ethereum smart contracts.<br>Ask me about: Front-end development strategies and integrating modern technologies.<br>Fun fact: I enjoy exploring new coding challenges and attending tech meetups to stay updated with industry trends.
+I'm currently working on: Developing scalable and user-friendly web applications.<br>I'm looking to collaborate on: Open-source projects that innovate in web development and technology.<br>I'm looking for help with: Optimizing performance and architecture in web applications.<br>I'm currently learning: Advanced techniques in JavaScript frameworks and Solidity for Ethereum smart contracts.<br>Ask me about: Web development strategies and integrating modern technologies.<br>Fun fact: I enjoy exploring new coding hackathons and attending tech meetups to stay updated with industry trends.
 
 
 ## 🌐 Socials:
